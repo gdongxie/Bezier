@@ -37,4 +37,8 @@ public class MainActivity extends AppCompatActivity {
     public void wave(View view) {
         startActivity(new Intent(MainActivity.this, WaveActivity.class));
     }
+
+    public void pathBezier(View view) {
+        startActivity(new Intent(MainActivity.this, PathBezierActivity.class));
+    }
 }

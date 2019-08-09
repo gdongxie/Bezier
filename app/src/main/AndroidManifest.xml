@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ui.WaveActivity"></activity>
+        <activity android:name=".ui.PathBezierActivity"></activity>
+        <activity android:name=".ui.WaveActivity" />
         <activity android:name=".ui.PathMorphingActivity" />
         <activity android:name=".ui.DrawPadActivity" />
         <activity android:name=".ui.ThirdBezierActivity" />

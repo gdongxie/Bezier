@@ -20,22 +20,32 @@
         android:layout_margin="10dp"
         android:onClick="thirdBezier"
         android:text="三阶Bezier曲线" />
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:onClick="drawPad"
         android:text="两点连线的圆滑处理" />
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:onClick="pathMorthing"
         android:text="路径变化动画" />
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         android:onClick="wave"
         android:text="波浪效果" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:onClick="pathBezier"
+        android:text="轨迹动画" />
 </LinearLayout>
