@@ -13,7 +13,7 @@ import com.dongxie.bezierdemo.R;
 
 /**
  * @ClassName: SecondBezierView
- * @Description:
+ * @Description:  利用贝塞尔曲线实现波浪动画
  * @Author: dongxie
  * @CreateDate: 2019/8/8 15:43
  */
